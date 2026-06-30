@@ -40,16 +40,6 @@ To analyze global energy consumption data and track:
 
 ---
 
-## ❓ Key Questions (KPIs)
-
-- Which region consumes the highest electricity (KWH)?  
-- Which countries lead in energy consumption and sustainability metrics?  
-- How does clean sustainable usage (CSU) vary across regions?  
-- Which energy source contributes the most to total consumption?  
-- How does renewable energy contribution compare across regions?  
-
----
-
 ## ⭐ Features
 
 - Region-wise KWH comparison using column charts  
